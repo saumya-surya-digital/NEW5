@@ -1,2 +1,2 @@
 This file is about writing proper PR titles, commit messages, and branch names.
-Making changes in the first file
+Making changes in the first file.
