@@ -1,1 +1,3 @@
 This file is about writing proper PR titles, commit messages, and branch names.
+Making changes in the first file.
+Trying to merge this pull request into previous one.
